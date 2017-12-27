@@ -718,8 +718,14 @@ hr {
 	.sectionMore_buttonBox {
 		width: 40%;
 	}
+	.sectionPost_content {
+		width: 70%;
+	}
 	.sectionPost_link {
 		flex-basis: 45%;
+	}
+	.sectionPost_navigation {
+		flex-basis: 40%;
 	}
 }
 @media all and (max-width:991px) and (min-width:768px) {
