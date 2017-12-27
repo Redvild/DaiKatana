@@ -721,6 +721,9 @@ hr {
 	.sectionPost_content {
 		width: 70%;
 	}
+	.sectionApproach_content {
+		width: 70%;
+	}
 	.sectionPost_link {
 		flex-basis: 45%;
 	}
