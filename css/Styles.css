@@ -718,6 +718,9 @@ hr {
 	.sectionMore_buttonBox {
 		width: 40%;
 	}
+	.sectionPost_link {
+		flex-basis: 45%;
+	}
 }
 @media all and (max-width:991px) and (min-width:768px) {
 	.header_nav {
@@ -744,9 +747,18 @@ hr {
 	.sectionPost_content {
 		width: 75%;
 	}
+	.sectionPost_box {
+		width: 60%;
+	}
 	.sectionPost_image {
 		width:100%;
 		margin-left: -10%;
+	}
+	.sectionPost_navigation {
+		width: 90%;
+	}
+	.sectionPost_link {
+		flex-basis: 45%;
 	}
 	.sectionApproach_content {
 		width: 75%;
